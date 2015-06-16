@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<project type="library" >
+    <name>Support for Library for linking mavlink </name>
+    <description>
+      Connecting MAVLink and InteractiveSpaces
+    </description>
+
+    <identifyingName>is.mavlink.apm</identifyingName>
+    <version>1.0.0</version>
+</project>
